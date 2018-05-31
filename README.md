@@ -11,6 +11,12 @@ Program for helping in the automation of the process of generating input test ca
 python automatic_test_generation.py <code to test> <function to test> <unwind parameter>
 ```
 
+## Test
+The program can be tested with the file min-function.c
+```
+python automatic_test_generation.py min-function.c minxyz 50
+```
+
 ## Built With
 [Python](https://www.python.org/) - Primary and unique Language.
 
