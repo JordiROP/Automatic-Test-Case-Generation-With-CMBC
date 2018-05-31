@@ -3,8 +3,8 @@ import sys
 
 """
 As before the output allways follows the same pattern, as we are only
-interested in the input variables values, we can just read for the line with
-INPUT.
+interested in the input variables values so, we can just read for the line with
+INPUT and take the following value.
 """
 
 
